@@ -36,6 +36,7 @@ def func3(name: str, code: int):
     print(f'{name}, I am func3 using {code}')
     return f"Welcome {name}"
 # params = (('Mridul', 5), ('Anurag', 7), ('Mohammad', 8), ('Arshid', 9))
+# Test1
 names = ['Mridul', 'Anurag', 'Mohammad', 'Arshid']
 age = [5, 6, 7, 8]
 
