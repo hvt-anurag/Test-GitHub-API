@@ -1,3 +1,0 @@
-ticket^label
-QE-8916^2.197.0
-QE-8916^None
